@@ -1,8 +1,9 @@
 import './App.css'
+import NetlifyForm from './components/NetlifyForm'
 
 function App() {
   return (
-    <img src="https://media.makeameme.org/created/it-works-hallelujah.jpg" alt="it works hallelujah" />
+    <NetlifyForm />
   )
 }
 
